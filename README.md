@@ -29,6 +29,8 @@ This activity investigates the KCNQ1 gene in the human genome using the UCSC Gen
 - **Annotation track:** NCBI RefSeq genes
 - **Clinical variant track:** ClinVar
 - **Conservation track:** UCSC 100 Vertebrates
+- **Conserved regions:** Conserved regions are present in both exonic/coding and intronic/noncoding regions of the KCNQ1 gene.
+- **Conservation interpretation:** Highly conserved regions are similar across different species, suggesting that these regions may have important biological functions. Conservation can therefore help identify genomic regions that are likely to be functionally important and may help researchers interpret potentially important variants.
 
 ## Activity Record
 
