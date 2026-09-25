@@ -24,6 +24,12 @@ This activity investigates the KCNQ1 gene in the human genome using the UCSC Gen
 - **Exon vs. Intron:** Exons are the segments of a gene that are retained in the mature RNA transcript, while introns are intervening regions that are removed during RNA processing. In the UCSC gene model, exons are shown as boxes and introns as the connecting lines between them.
 - **Exon/Intron length observation:** The introns appear much longer than the exons in the UCSC gene model.
 
+## Annotation and Conservation Tracks
+
+- **Annotation track:** NCBI RefSeq genes
+- **Clinical variant track:** ClinVar
+- **Conservation track:** UCSC 100 Vertebrates
+
 ## Activity Record
 
 This README documents the steps performed, observations made, and answers to the questions in the laboratory activity.
