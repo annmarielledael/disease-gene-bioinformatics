@@ -43,16 +43,16 @@ This activity investigates the KCNQ1 gene in the human genome using the UCSC Gen
 
 ## Reflection
 
-1. What did UCSC show you about your gene that was not obvious from simply reading about the gene's function?
+**1. What did UCSC show you about your gene that was not obvious from simply reading about the gene's function?**
 - UCSC showed me the detailed genomic structure of the KCNQ1 gene, including its exons, introns, multiple transcripts, and genomic location. It also allowed me to see clinical variant and conservation tracks directly alongside the gene. These features are not as obvious when only reading about the function of KCNQ1.
 
-2. Why is knowing the exact genomic location of a disease-associated variant useful?
+**2. Why is knowing the exact genomic location of a disease-associated variant useful?**
 - Knowing the exact genomic location of a disease-associated variant helps researchers determine where the variant occurs relative to the gene structure. It can show whether the variant is located in an exon, intron, UTR, or another region and allows the variant to be compared with nearby genomic annotations. This information can help researchers investigate its possible biological effects.
 
-3. What is one limitation of predicting a variant's effect only from its genomic location?
+**3. What is one limitation of predicting a variant's effect only from its genomic location?**
 - One limitation is that genomic location alone does not provide enough information to determine the actual effect of a variant. A variant may be located in an exon, but its effect still needs to be supported by clinical, functional, or other evidence. Therefore, location is useful for interpretation but should not be the only basis for concluding that a variant causes disease.
 
-4. What was the most interesting feature you observed about your assigned gene?
+**4. What was the most interesting feature you observed about your assigned gene?**
 - The most interesting feature I observed about KCNQ1 was its detailed exon-intron structure and the presence of multiple transcript models. I also found it interesting that clinical variant and conservation information could be viewed directly alongside the gene in UCSC. This helped me see how the gene's structure and genomic context can be connected to disease-related variant information.
 
 ## Activity Record
