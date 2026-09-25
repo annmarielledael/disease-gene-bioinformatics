@@ -19,6 +19,7 @@ This activity investigates the KCNQ1 gene in the human genome using the UCSC Gen
 ## Genome Structure
 
 - **Selected transcript:** KCNQ1/NM_000218.3
+- **Exon count:** 16
 
 ## Activity Record
 
