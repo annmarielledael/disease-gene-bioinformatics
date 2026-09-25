@@ -1,4 +1,4 @@
-# UCSC Genome Browser and NCBI ClinVar Activity
+# Exploring a Human Disease Gene Using UCSC Genome Browser and NCBI ClinVar
 
 ## Assigned Gene and Disease
 
@@ -15,6 +15,12 @@ This activity investigates the KCNQ1 gene in the human genome using the UCSC Gen
 
 - **Genome:** Human
 - **Assembly:** GRCh38/hg38
+
+## Activity Record
+
+This README documents the steps performed, observations made, and answers to the questions in the laboratory activity.
+
+Screenshots documenting the activity are stored in the `screenshots` folder.
 
 ## Genome Structure
 
@@ -38,7 +44,7 @@ This activity investigates the KCNQ1 gene in the human genome using the UCSC Gen
 - **Location:** chr11:2,572,899 (GRCh38), within the KCNQ1 gene
 - **Region:** Exon
 - **Coding/non-coding:** Coding region
-- **Possible effect:** The variant introduces a premature termination signal (p.Tyr278Ter), producing a nonsense change that could result in a shortened KCNQ1 protein. ClinVar reports the variant as Pathogenic.
+- **Possible effect:** The variant introduces a premature termination signal (p.Tyr278Ter), producing a nonsense change that could result in a shortened KCNQ1 protein. ClinVar reports the variant as pathogenic.
 - **Additional evidence needed:** Clinical evidence from affected individuals and families, population-frequency data, functional studies, and other genetic evidence would be needed to support a disease-causing conclusion.
 
 ## Reflection
@@ -55,8 +61,15 @@ This activity investigates the KCNQ1 gene in the human genome using the UCSC Gen
 **4. What was the most interesting feature you observed about your assigned gene?**
 - The most interesting feature I observed about KCNQ1 was its detailed exon-intron structure and the presence of multiple transcript models. I also found it interesting that clinical variant and conservation information could be viewed directly alongside the gene in UCSC. This helped me see how the gene's structure and genomic context can be connected to disease-related variant information.
 
-## Activity Record
+## Selected ClinVar Variant
 
-This README documents the steps performed, observations made, and answers to the questions in the laboratory activity.
+- **Variant:** NM_000218.3:c.834C>A (p.Tyr278Ter)
+- **ClinVar Variation ID:** 4843729
+- **VCV:** VCV004843729.1
+- **Condition:** Cardiovascular phenotype
+- **Clinical significance:** Pathogenic
+  
+## References and Links
 
-Screenshots documenting the activity are stored in the `screenshots` folder.
+- **UCSC Genome Browser:** https://genome.ucsc.edu/
+- **NCBI ClinVar:** https://www.ncbi.nlm.nih.gov/clinvar/
