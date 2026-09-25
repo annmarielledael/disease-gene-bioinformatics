@@ -32,6 +32,15 @@ This activity investigates the KCNQ1 gene in the human genome using the UCSC Gen
 - **Conserved regions:** Conserved regions are present in both exonic/coding and intronic/noncoding regions of the KCNQ1 gene.
 - **Conservation interpretation:** Highly conserved regions are similar across different species, suggesting that these regions may have important biological functions. Conservation can therefore help identify genomic regions that are likely to be functionally important and may help researchers interpret potentially important variants.
 
+## Variant Location and Interpretation
+
+- **Variant:** NM_000218.3:c.834C>A (p.Tyr278Ter)
+- **Location:** chr11:2,572,899 (GRCh38), within the KCNQ1 gene
+- **Region:** Exon
+- **Coding/non-coding:** Coding region
+- **Possible effect:** The variant introduces a premature termination signal (p.Tyr278Ter), producing a nonsense change that could result in a shortened KCNQ1 protein. ClinVar reports the variant as Pathogenic.
+- **Additional evidence needed:** Clinical evidence from affected individuals and families, population-frequency data, functional studies, and other genetic evidence would be needed to support a disease-causing conclusion.
+
 ## Activity Record
 
 This README documents the steps performed, observations made, and answers to the questions in the laboratory activity.
