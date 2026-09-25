@@ -16,6 +16,10 @@ This activity investigates the KCNQ1 gene in the human genome using the UCSC Gen
 - **Genome:** Human
 - **Assembly:** GRCh38/hg38
 
+## Genome Structure
+
+- **Selected transcript:** KCNQ1/NM_000218.3
+
 ## Activity Record
 
 This README documents the steps performed, observations made, and answers to the questions in the laboratory activity.
